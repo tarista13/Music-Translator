@@ -1,4 +1,4 @@
-Vision Statement:
+# Vision Statement:
 
 My vision for this application is to create an innovative React Native application that revolutionizes the way people connect through music by bridging linguistic barriers. This application seeks to empower users by enabling seamless translation of song lyrics into their preferred language, leveraging the robust capabilities of Spotify's API and Musixmatch API. By embracing the universal language of music, our goal is to provide a platform where individuals worldwide can transcend language limitations and deeply comprehend the lyrical content of any song, fostering a stronger sense of connection and understanding among diverse cultures.
 
